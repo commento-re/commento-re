@@ -1,7 +1,7 @@
-### Commento
+### Commento Revised Edition.
 
-## Caution
-**This is revised edition `commento`. See [Wiki page](https://github.com/mzch/commento-re/wiki) .**
+### Caution
+**This is `commento` revised edition. See [Wiki page](https://github.com/mzch/commento-re/wiki)  to know differences than original version.**
 
 ##### [Homepage](https://commento.io) &nbsp;&ndash;&nbsp; [Demo](https://demo.commento.io) &nbsp;&ndash;&nbsp; [Documentation](https://docs.commento.io) &nbsp;&ndash;&nbsp; [Contributing](https://docs.commento.io/contributing/) &nbsp;&ndash;&nbsp; [#commento on Freenode](http://webchat.freenode.net/?channels=%23commento)
 
